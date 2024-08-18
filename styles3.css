@@ -28,23 +28,19 @@ body{
   position: relative;
   background-color: antiquewhite;
   transition:  0.4s ease-in-out;
-  flex: 1;
-  flex-shrink: 0.1 ;
 }
 .first:hover{
     background:url(zwqt8k99.png);
     color: antiquewhite;
     font-weight: bold;
-      filter: blur(8px);
-  -webkit-filter: blur(8px);
+      
 
 }
 .second:hover{
     background:url(zwqt8k99.png);
     color: white;
     font-weight: bolder;
-      filter: blur(8px);
-  -webkit-filter: blur(8px);
+     
 
 }
 .third:hover{
@@ -52,16 +48,14 @@ body{
     color: white;
     font-weight: bolder;
     
-      filter: blur(8px);
-  -webkit-filter: blur(8px);
+     
 
 }  
 .fourth:hover{
     background:url(zwqt8k99.png);
     color: white;
     font-weight: bolder;
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
+  
 
     
 }
@@ -69,9 +63,6 @@ body{
     background:url(zwqt8k99.png);
     color: white;
     font-weight: bolder;
-
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
 
     
 }
