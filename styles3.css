@@ -35,26 +35,45 @@ body{
     background:url(zwqt8k99.png);
     color: antiquewhite;
     font-weight: bold;
+      filter: blur(8px);
+  -webkit-filter: blur(8px);
+
 }
 .second:hover{
     background:url(zwqt8k99.png);
     color: white;
     font-weight: bolder;
+      filter: blur(8px);
+  -webkit-filter: blur(8px);
+
 }
 .third:hover{
     background:url(zwqt8k99.png);
     color: white;
     font-weight: bolder;
-}
+    
+      filter: blur(8px);
+  -webkit-filter: blur(8px);
+
+}  
 .fourth:hover{
     background:url(zwqt8k99.png);
     color: white;
     font-weight: bolder;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+
+    
 }
 .fifth:hover{
     background:url(zwqt8k99.png);
     color: white;
     font-weight: bolder;
+
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+
+    
 }
 
 
