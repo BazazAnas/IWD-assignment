@@ -1,0 +1,60 @@
+.bar{
+    padding-top: 30px;
+    padding-left: 30px;
+    background:linear-gradient(to right, #ECB176, #A67B5B);
+}
+.barin{
+    background-color: #A67B5B;
+    border-style: none;
+    border-radius: 20px;
+    color: #333;
+    padding: 10px 10px 10px 10px ;
+}
+body{
+    background:linear-gradient(to right, #ECB176, #A67B5B);
+}
+.container{
+    padding: 12px;
+    display: flex;
+    gap: 6px;
+    flex-direction: column;
+    margin-top: 6vh;
+    height: 85vh;
+    width: 80vh;
+    margin-bottom: 80px;
+    background: linear-gradient( to right,#A67B5B,#ECB176);
+}
+.card1{
+  position: relative;
+  background-color: antiquewhite;
+  transition:  0.4s ease-in-out;
+  flex: 1;
+  flex-shrink: 0.1 ;
+}
+.first:hover{
+    background:url(zwqt8k99.png);
+    color: antiquewhite;
+    font-weight: bold;
+}
+.second:hover{
+    background:url(zwqt8k99.png);
+    color: white;
+    font-weight: bolder;
+}
+.third:hover{
+    background:url(zwqt8k99.png);
+    color: white;
+    font-weight: bolder;
+}
+.fourth:hover{
+    background:url(zwqt8k99.png);
+    color: white;
+    font-weight: bolder;
+}
+.fifth:hover{
+    background:url(zwqt8k99.png);
+    color: white;
+    font-weight: bolder;
+}
+
+

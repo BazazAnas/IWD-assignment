@@ -1,0 +1,73 @@
+body{
+    background-color: #FAEDCE !important; 
+}
+
+a{
+    color: black;
+}
+#pad{
+    background-image: url(download.jpeg);
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#Login{
+    background-color: #ECB176;
+}
+img{
+    width: 100%;
+    height: 90vh;
+}
+h4{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h5{
+    text-align: center;
+    color: black!important;
+}
+.home{
+    padding: 8px;
+    border-radius: 10px;
+    border-style: none;
+    margin-top: 20px;
+    background-color: #ECB176;
+}
+.carousel-inner{
+  height: 90vh;
+  
+}
+.text{
+    margin-top: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 800px;
+    height: fit-content;
+    margin-top: 20px;
+    font-size: 2ch;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.holder{
+    background-color: #FAEDCE;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.bar{
+    color: black;
+}
+.bar:hover{
+    color: #FEFAE0;
+}
+.card{
+    background:linear-gradient(to right, #ECB176, #A67B5B);
+}
+
+.footer-home{
+    outline: none;
+    background:#ECB176 !important;
+}
